@@ -45,10 +45,3 @@ JavaScript + HTML + CSS projects.
 
 ---
 
-## ⚙️ How to Run Code
-
-### C++:
-```bash
-g++ filename.cpp -o output
-./output
-# PROGRAMMING
