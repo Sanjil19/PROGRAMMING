@@ -1,47 +1,89 @@
 # 💻 Programming Practice Repository
 
-This repository contains my personal programming practice work in C++, CSS, and JavaScript. It's organized by language and project type to keep things clean and maintainable.
+This repository contains my personal programming practice and coursework in **C++**, **CSS/HTML**, and **JavaScript**. The structure is organized by language and assignment type, making it easy to find and review specific topics or projects.
 
 ---
 
 ## 📁 Folder Structure
 
 ### 🔹 `C++/`
-Contains C++ programs and exercises. Example topics:
-- Basic input/output
-- Conditionals and loops
-- Sorting algorithms
-- Practice programs for college
+C++ programs and exercises for college coursework and practice.
 
-> ⚠️ Temporary files like `a.out` and `tempCodeRunnerFile` are ignored using `.gitignore`.
-
----
-
-### 🔹 `css/`
-Web design and layout assignments using HTML and CSS.
-
-Organized by days/labs/assignments:
-- `day1` to `day5` – Daily practice
-- `assignment 2`, `LAB4`, `Lab 5` – Coursework submissions
-- Includes use of:
-  - Flexbox
-  - Positioning
-  - Pseudo-elements
-  - CSS selectors
+- **Files:** `program1.cpp`, `program2.cpp`, ..., `program10.cpp`
+- **Topics:** Basic I/O, conditionals, loops, sorting, dynamic memory allocation, and more.
+- **Executables:** Files like `a.out`, `program1`, etc. (temporary/compiled outputs)
+- **VS Code Config:** `.vscode/` for debugging and build tasks.
 
 ---
 
-### 🔹 `js/`
-JavaScript + HTML + CSS projects.
+### 🔹 `CSS/`
+Web design assignments and daily practice using HTML and CSS.
 
-- Each folder (e.g., `day1`, `day2`, …) includes:
-  - `index.html`
-  - `script.js`
-  - `styles.css`
-- Topics covered:
-  - DOM manipulation
-  - Event handling
-  - Basic interactivity
+- **Organization:** 
+  - `day1` to `day5` – Daily hands-on practice
+  - `assignment 2`, `LAB4`, `Lab 5` – Coursework and lab submissions
+- **Topics:** 
+  - Flexbox, positioning, selectors, pseudo-elements
+  - Forms, tables, multimedia embedding (audio/video/YouTube)
+  - Responsive layouts and navigation bars
+- **Sample files:** `index.html`, `style.css`, `nav.html`, etc.
+
+---
+
+### 🔹 `Javascript/`
+JavaScript exercises and interactive web projects.
+
+- **Organization:** 
+  - `day1`, `day2`, ... – Daily practice folders
+- **Topics:** 
+  - DOM manipulation, event handling, basic interactivity
+  - External and inline scripting
+- **Sample files:** `script.js`, `index.html`
+
+---
+
+## 📝 Notes
+
+- **Temporary/compiled files** (e.g., `a.out`, `tempCodeRunnerFile`) are ignored in version control.
+- **VS Code settings** are included for easier debugging and task running.
+- **Assignments and labs** are named according to college coursework for easy reference.
+
+---
+
+## 🚀 Getting Started
+
+1. **Browse folders** by language or assignment.
+2. **Open HTML files** in your browser to view web projects.
+3. **Compile C++ files** using `g++ programX.cpp -o programX` and run with `./programX`.
+4. **Edit and run JavaScript** in the browser or using browser dev tools.
+
+---
+
+## 📚 Learning Focus
+
+- **C++:** Core programming concepts, algorithms, and memory management.
+- **CSS/HTML:** Modern web layouts, forms, and multimedia.
+- **JavaScript:** Dynamic web interactivity and DOM scripting.
+
+---
+
+## 📦 Directory Overview
+
+```
+C++/
+  program1.cpp, program2.cpp, ...      # C++ source files
+  a.out, program1, ...                 # Compiled outputs
+  .vscode/                            # VS Code config
+
+CSS/
+  day1/, day2/, ..., Day 5/            # Daily HTML/CSS practice
+  assignment 2/, LAB4/, Lab 5/         # Coursework and labs
+  style.css, nav.html, ...             # Styles and layouts
+
+Javascript/
+  day1/, day2/                         # JS practice folders
+  script.js, index.html                # Scripts and demos
+```
 
 ---
 
